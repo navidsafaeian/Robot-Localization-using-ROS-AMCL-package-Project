@@ -23,7 +23,7 @@ $ roslaunch udacity_bot amcl
 $ rosrun udacity_bot navigation goal
 ``` 
 
-- For the __Safa bot benchmark model__ run the following in separate terminal: <br>
+- For the __Safa bot personal model__ run the following in separate terminal: <br>
 ``` bash
 $ roslaunch udacity_bot masterRun_safa_bot.launch 
 $ rosrun udacity_bot navigation goal
