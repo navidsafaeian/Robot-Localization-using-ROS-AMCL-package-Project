@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- safa_bot -->
+<launch>
+
+  <!-- Robot World Launch -->
+  <include file="$(find udacity_bot)/launch/safa_world.launch"/>
+
+  <!-- AMCL Launch -->
+  <include file="$(find udacity_bot)/launch/amcl_safa.launch"/>
+
+
+</launch>
+
