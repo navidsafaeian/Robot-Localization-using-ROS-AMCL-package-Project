@@ -1,7 +1,7 @@
 # Robot Localization using ROS Navigation Slack and AMCL ROS Package 
 
 [rvizgif]:WhereAmI.gif
-[writeup]:writeup-WhereAmI.png
+[writeup]:PaperReport-WhereAmI.png
 
 ![rvizgif]
 
