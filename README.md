@@ -34,7 +34,9 @@ $ roslaunch udacity_bot safa_bot
 $ roslaunch udacity_bot safa_amcl
 $ rosrun udacity_bot navigation goal
 ```
-## Project Writeup:
+## Paper Report for the project: 
+Here is the Paper Report in [pdf format](PaperReport-WhereAmI.pdf)
+
 
 ![writeup]
 
